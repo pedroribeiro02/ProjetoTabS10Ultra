@@ -279,7 +279,7 @@ section.info {
   color: white;
   padding: 60px 20px;
   position: relative;
-  overflow-y: auto; /* Permite rolar a página inteira se necessário */
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   align-items: center;
